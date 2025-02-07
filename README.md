@@ -17,5 +17,9 @@
  * **오늘의 작업 프로젝트**
    > 작업이미지
    >> ![image](https://github.com/user-attachments/assets/5a2dba3d-cb16-43b1-913b-1d2080c7910a)
+   >>> * 기능설명
+   >>>   * MasterVolume : 게임 전체 볼륨을 조절기능
+   >>>   * BGMVolume : 배경음악 조절기능
+   >>>   * SFX : 효과음 조절 기능
 
 
